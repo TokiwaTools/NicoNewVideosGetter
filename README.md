@@ -17,3 +17,9 @@
 
 ## License
 [MIT License](https://github.com/TokiwaTools/NicoNewVideosGetter/blob/master/LICENSE)
+
+## Contact
+
+[Mail](tkw.4402@gmail.com)  
+[Twitter](https://twitter.com/tkw_fms)  
+[HP](http://ntt_forpro.sokon.jp/)

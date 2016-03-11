@@ -15,4 +15,4 @@
 3. (feedly Webサイト版の場合)左コラム[Organize feeds]→一番下の[import OPML]よりインポート
 
 ## License
-[MIT License]()
+[MIT License](https://github.com/TokiwaTools/NicoNewVideosGetter/blob/master/LICENSE)
